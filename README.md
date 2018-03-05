@@ -27,3 +27,8 @@ with a key of 0 (64-bits)).
 **Estimated security:** There are likely multiple ways to break this, 
 but the one I have in mind would reduce this by **at least** a couple of 
 bits (KPA attack)
+
+**Key expansion:** I'm not even sure how to call this abomination... 
+(purpose of analysis is not to break it, because it was mopped up really 
+quickly and doesn't demonstrate the main point which is related to the 
+weakened round design)
